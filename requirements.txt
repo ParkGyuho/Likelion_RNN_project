@@ -2,7 +2,6 @@ pandas
 numpy
 streamlit
 pytesseract
-PIL
 cv2
 matplotlib.pyplot
 warnings

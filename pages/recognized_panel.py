@@ -1,5 +1,4 @@
 import streamlit as st
-from PIL import Image
 import cv2
 import pytesseract
 import matplotlib.pyplot as plt
