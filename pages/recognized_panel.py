@@ -3,10 +3,6 @@ import cv2
 import pytesseract
 from matplotlib import pyplot as plt
 import numpy as np
-import warnings
-
-warnings.filterwarnings("ignore")
-
 
 image_file = st.file_uploader("Upload Images", type=["png", "jpg", "jpeg"])
 

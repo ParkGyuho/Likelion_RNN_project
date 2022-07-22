@@ -4,4 +4,3 @@ streamlit
 pytesseract
 opencv-python-headless
 matplotlib
-warnings
