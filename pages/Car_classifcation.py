@@ -1,5 +1,4 @@
 import streamlit as st
-import pytesseract
 from matplotlib import pyplot as plt
 import numpy as np
 import keras
