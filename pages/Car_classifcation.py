@@ -1,5 +1,4 @@
 import streamlit as st
-import cv2
 import pytesseract
 from matplotlib import pyplot as plt
 import numpy as np

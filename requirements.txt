@@ -9,7 +9,7 @@ imgaug==0.4.0
 scikit-learn==1.0.2
 keras
 tensorflow
-opencv-python
+cv2
 opencv-python-headless
 requests
 beautifulsoup4
