@@ -4,6 +4,9 @@ import pytesseract
 from matplotlib import pyplot as plt
 import numpy as np
 
+st.write("## 🔢차량 번호판 인식 홈페이지입니다!🔢")
+st.write("### 번호판 이미지를 업로드하면 번호판 인식을 합니다.")
+
 image_file = st.file_uploader("Upload Images", type=["png", "jpg", "jpeg"])
 
 if image_file is not None:
